@@ -1,0 +1,29 @@
+Part 1: SWAPI
+
+
+1.	https://swapi.dev/api/people/?search=vader (height: 202)
+2.	https://swapi.dev/api/planets/?search=alderaan (population: 20000000)
+3.	https://swapi.dev/api/starships/?search=falcon (manufacturer: Corellian Engineering Corporation)
+4.	. https://swapi.dev/api/people/?search=C-3PO && https://swapi.dev/api/species/2/ (species: droid)
+5.	https://swapi.dev/api/people/?search=obi-wan & "films": [
+                "https://swapi.dev/api/films/1/",
+                "https://swapi.dev/api/films/2/",
+                "https://swapi.dev/api/films/3/",
+                "https://swapi.dev/api/films/4/",
+                "https://swapi.dev/api/films/5/",
+                "https://swapi.dev/api/films/6/"
+            ] (ALL of them he was in all of them I’m not writing each name (btw there are only six films in my mind and nothing can change that))
+
+6.	https://swapi.dev/api/starships/?search=falcon
+Part 2: Social Mountain
+
+
+1.	. BODY JSON https://practiceapi.devmountain.com/api/posts?id=1336 
+2.	ID
+3.	https://practiceapi.devmountain.com/api/posts?id= {“text”: “AAAAAAAA”} https://practiceapi.devmountain.com/api/posts?id= {“text”: “”}
+4.	https://practiceapi.devmountain.com/api/posts/filter?id= {“text”: “”}
+5.	https://practiceapi.devmountain.com/api/posts/filter?id=text:RohaanAnderson
+6.	https://practiceapi.devmountain.com/api/posts/filter?text=blue
+7.	https://practiceapi.devmountain.com/api/posts/
+8.	https://practiceapi.devmountain.com/api/posts/?err=409
+9.	It gets it, because you are searching for it

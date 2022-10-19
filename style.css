@@ -1,0 +1,31 @@
+* {
+    margin: 0
+}
+
+
+body {
+    background-color: #78fc89
+}
+
+header {
+    height: 50px;
+    width: 100vw;
+    margin-bottom: 20px;
+    background-color: lightblue;
+}
+
+
+button {
+    float: left;
+    margin: 50px;
+    height: 100px;
+    width: 100px;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    space-between: 100px;
+    background-color: #57bb39;
+}
